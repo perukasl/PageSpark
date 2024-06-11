@@ -1,0 +1,83 @@
+@charset "UTF-8";
+*{
+	font-family:verdana, arial;/Tipografia da fonte/
+}body{
+	background-color:##0e103d;/Cor do plano fundo/
+}
+
+.fundoespecial{
+	background-image:url(../img/wpp2.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+	background-attachment:fixed;
+}
+.conteudo{
+	background-color:rgba(211,211,211,0.2);
+	width:80%;
+	margin:auto;
+	border-radius:30px;
+	margin-top:20px;
+	border:2px solid silver;
+	padding:20px;
+}
+.conteudo p{
+	text-align:justify;
+	font-size:14px;
+}
+.conteudo img{
+	width:200px;
+	float:right;
+	padding:10px;
+	opacity:0.6;
+}
+.conteudo h1, .conteudo h2{
+	font-family:cursive;
+	
+	
+	
+	
+	
+	
+	
+	
+	 <style type="text/css">
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+			background-image:url(../img/wpp2.jpg);
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
